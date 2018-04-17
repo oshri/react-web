@@ -1,0 +1,21 @@
+{
+  "name": "react-web",
+  "version": "0.0.0",
+  "private": true,
+  "homepage" : "http://oshri.github.io/react-web",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "react": "^16.2.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

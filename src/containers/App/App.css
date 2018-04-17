@@ -1,0 +1,5 @@
+.App {
+  margin: 0 auto;
+  width: var(--demo-box-width);
+  margin-top: 10%;
+}
