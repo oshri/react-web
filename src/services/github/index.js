@@ -1,5 +1,5 @@
 class GithubApi {
-    url = 'http://api.github.com/users/';
+    url = 'https://api.github.com/users/';
 
     getUserDetails(user) {
         return fetch(`${this.url}${user}`).then((res) => {
