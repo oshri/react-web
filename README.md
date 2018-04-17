@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![logo]
 
-[logo]: https://github.com/oshri/react-web-demo/blob/master/splash.gif 
+[logo]: https://github.com/oshri/react-web/blob/master/splash.gif 
 
 
 - [Available Scripts](#available-scripts)
